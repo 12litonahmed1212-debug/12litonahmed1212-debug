@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there! I'm Liton 👋
 
-<!--
-**12litonahmed1212-debug/12litonahmed1212-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Web Developer
 
-Here are some ideas to get you started:
+I'm currently on a journey to build a strong foundation in frontend web development. I love the process of turning ideas into functional, interactive websites!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 I'm Currently Learning & Building With:
+
+* **HTML:** Mastering semantic structure and accessibility.
+* **CSS:** Diving deep into Flexbox, Grid, and responsive design for beautiful layouts.
+* **JavaScript (JS):** Learning how to manipulate the DOM and add dynamic behavior to web pages.
+
+I'm focused on creating small projects and challenges to solidify these fundamentals.
+
+---
+
+### 🤝 Let's Connect
+
+Feel free to check out my repositories or say hello!
+
